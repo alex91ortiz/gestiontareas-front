@@ -1,4 +1,8 @@
 # gestiontareas
+## Descripcion
+```
+Interfaz hecha en Vue js que permite la interaccion con las API REST para el programa de gestion de tareas
+```
 
 ## Project setup
 ```
